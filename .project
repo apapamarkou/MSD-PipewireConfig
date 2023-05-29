@@ -1,5 +1,5 @@
 # Gambas Project File 3.0
-Title=Pipewire settings
+Title=Pipewire control
 Startup=SettingsWindow
 Icon=pipewire-icon.png
 Version=0.0.12
@@ -16,10 +16,10 @@ Maintainer=Andrianos Papamarkou
 Vendor=MinorSoftwareDevelopment
 VendorPrefix=MSD
 Address=papamarkoua@gmail.com
-Url=http://www.andrianospapamarkou.eu/
+Url=https://www.andrianospapamarkou.eu/
 License=General Public License
 Prefix=1
-PackageName=msd-qtpipewireconfig-0.0.12
+PackageName=msd-pipewireconfig-0.0.12
 ExtraDesktop="Categories=Audio;Video;AudioVideo;"
 RuntimeVersion="3.0"
 Packager=1
