@@ -1,0 +1,16 @@
+' Gambas class file
+
+Public VideoWidthChangeCommand As String
+Public VideoHeightChangeCommand As String
+Public SampleRateChangeCommand As String
+Public BufferSizeChangeCommand As String
+Public VideoWidth As String
+Public VideoHeight As String
+Public SampleRate As String
+Public BufferSize As String
+
+Public Function toString() As String
+
+  Return "SampleRate = " & SampleRate
+
+End

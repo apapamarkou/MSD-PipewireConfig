@@ -1,0 +1,14 @@
+[Bookmarks]
+SettingsWindow=[]
+
+[Debug]
+Breakpoints={}
+
+[FCommit]
+LastCommit="1st"
+
+[OpenFile]
+File[1]=".src/SettingsWindow.form"
+Active=1
+Count=1
+

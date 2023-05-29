@@ -1,0 +1,33 @@
+# Gambas Project File 3.0
+Title=Pipewire settings
+Startup=SettingsWindow
+Icon=pipewire-icon.png
+Version=0.0.12
+Component=gb.image
+Component=gb.gui.qt
+Component=gb.form
+Component=gb.util.web
+Description="This a GUI application to change sample-rate, buffer size and other options on the fly when using pipewire. The application made by a musician and music producer Andrianos Papamarkou (Mark Adrian) on Gambas3 IDE. Uses QT toolkit."
+Authors="Andrianos Papamarkou papamarkoua@gmail.com"
+TabSize=2
+Language=en_US
+CreateShortcut=1
+Maintainer=Andrianos Papamarkou
+Vendor=MinorSoftwareDevelopment
+VendorPrefix=MSD
+Address=papamarkoua@gmail.com
+Url=http://www.andrianospapamarkou.eu/
+License=General Public License
+Prefix=1
+PackageName=msd-qtpipewireconfig-0.0.12
+ExtraDesktop="Categories=Audio;Video;AudioVideo;"
+RuntimeVersion="3.0"
+Packager=1
+Systems=ubuntu
+Menus=debian:"Applications/Sound"
+Groups=debian:"utils"
+Menus=fedora:"Audio Video/Music"
+Categories=fedora:"AudioVideo;Music"
+Groups=fedora:"Applications/Multimedia"
+Menus=ubuntu:"Applications/Sound"
+Groups=ubuntu:"utils"
